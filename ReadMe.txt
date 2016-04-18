@@ -1,4 +1,4 @@
-Digital Memories v.0.1
+Digital Memories v.0.0.1
 
 Idea
 
